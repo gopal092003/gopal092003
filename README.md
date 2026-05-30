@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Gopal 👋</h1>
-  <h3>AI & Machine Learning Engineer from Indore, India</h3>
+  <h3>AI & Machine Learning Engineer from Madhya Pradesh, India</h3>
   
   <p>Building intelligent systems, multi-agent architectures, and production-ready ML solutions.</p>
 </div>
