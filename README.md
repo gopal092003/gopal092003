@@ -1,86 +1,108 @@
-<div align="center">
-  <h1>Hi there, I'm Gopal 👋</h1>
-  <h3>AI & Machine Learning Engineer from India</h3>
-  
-  <p><strong>Building intelligent multi-agent systems, advanced RAG architectures, and production-grade Machine Learning solutions.</strong></p>
-</div>
+# Hi, I'm Gopal 👋
+
+**AI Engineer | Machine Learning Engineer | GenAI Developer**
+
+I build intelligent systems powered by **LLMs, Agentic AI, RAG, GraphRAG, Machine Learning, and Computer Vision**.
+
+Currently focused on developing production-ready AI applications that combine autonomous agents, knowledge retrieval, and predictive modeling.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Featured Projects
 
-I'm a passionate **AI & Machine Learning Engineer** with a strong focus on developing practical, real-world intelligent systems. My work spans across **Multi-Agent Architectures**, **Retrieval-Augmented Generation (RAG)**, **Deep Learning**, and **End-to-End ML Systems**.
+### 🤖 AI Sales Agent
 
-- 🔭 Currently building advanced AI agents and graph-based RAG systems
-- 🌱 Deeply exploring Agentic AI, LLM orchestration, and MLOps
-- 💡 I enjoy solving complex problems using data-driven and AI-powered approaches
-- 📍 Based in **Indore, Madhya Pradesh, India**
+AI-native multi-agent sales intelligence platform built with Python and TypeScript.
 
----
+**Tech:** Multi-Agent Systems • LLMs • Automation
 
-### 🛠️ Technical Skills
+🔗 https://github.com/gopal092003/AI-Sales-Agent
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### 💰 Finance AI Agent
 
-**Machine Learning & Deep Learning**  
-PyTorch • TensorFlow • XGBoost • CatBoost • Scikit-learn • Neural Collaborative Filtering • Transfer Learning
+Multi-agent financial assistant for invoice processing and transaction analysis.
 
-**AI & Agentic Systems**  
-Multi-Agent Systems • LangChain • LlamaIndex • RAG • Graph RAG • Neo4j • Agentic Workflows
+**Tech:** RAG • LLMs • Financial AI
 
-**Computer Vision**  
-YOLO • OpenCV • CNNs • EfficientNet • VGG19
+🔗 https://github.com/gopal092003/finance-ai-agent
 
-**Backend & Deployment**  
-FastAPI • Flask • REST APIs • Docker
+### 🕸️ Agentic Graph RAG
 
-**Databases & Tools**  
-Neo4j • PostgreSQL • Git • GitHub • Linux
+Graph-based Retrieval-Augmented Generation platform powered by Neo4j.
 
----
+**Tech:** GraphRAG • Neo4j • Knowledge Graphs
 
-### 🔥 Featured Projects
+🔗 https://github.com/gopal092003/agentic-graph-rag
 
-Here are some of my notable public contributions in AI and Machine Learning:
+### 🚗 Distracted Driver Detection
 
-**Agentic & Advanced AI Systems**
-- **[AI-Sales-Agent](https://github.com/gopal092003/AI-Sales-Agent)** — AI-native multi-agent sales intelligence platform built with Python and TypeScript
-- **[agentic-graph-rag](https://github.com/gopal092003/agentic-graph-rag)** — Agentic Graph RAG platform using Neo4j for enhanced knowledge retrieval
-- **[finance-ai-agent](https://github.com/gopal092003/finance-ai-agent)** — Multi-agent financial AI system with RAG capabilities for invoices and transactions
+Deep learning system for driver behavior monitoring.
 
-**Machine Learning Applications**
-- **[Medical-Kit-Usefulness-Prediction](https://github.com/gopal092003/Medical-Kit-Usefulness-Prediction)** — XGBoost-based pipeline for predicting usefulness of medical kits
-- **[Distracted-Driver-Detection](https://github.com/gopal092003/Distracted-Driver-Detection)** — Real-time distracted driver detection using CNNs and Transfer Learning (VGG19 & EfficientNet)
-- **[handgun-detection](https://github.com/gopal092003/handgun-detection)** — Real-time handgun detection system using YOLO and OpenCV
-- **[heart-failure-ml-system](https://github.com/gopal092003/heart-failure-ml-system)** — Full-stack heart failure prediction system with FastAPI backend
-- **[Credit-Card-Transactions-Fraud-Detection](https://github.com/gopal092003/Credit-Card-Transactions-Fraud-Detection)** — Fraud detection using CatBoost and XGBoost
+**Tech:** CNNs • Transfer Learning • Computer Vision
 
-**Other Notable Projects**
-- **[Movie-Recommendation-NCF](https://github.com/gopal092003/Movie-Recommendation-NCF)** — Neural Collaborative Filtering based recommendation system using TensorFlow
-- **[agriculture-price-forecasting](https://github.com/gopal092003/agriculture-price-forecasting)** — Agricultural crop price forecasting using Machine Learning
+🔗 https://github.com/gopal092003/Distracted-Driver-Detection
 
-**→ Explore all repositories [here](https://github.com/gopal092003?tab=repositories)**
+### 🔫 Handgun Detection
+
+Real-time object detection system using YOLO and OpenCV.
+
+**Tech:** YOLO • OpenCV • Object Detection
+
+🔗 https://github.com/gopal092003/handgun-detection
+
+### 🎬 Movie Recommendation System
+
+Neural Collaborative Filtering recommender built with TensorFlow.
+
+**Tech:** Recommender Systems • Deep Learning
+
+🔗 https://github.com/gopal092003/Movie-Recommendation-NCF
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Areas of Interest
 
-![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal092003&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal092003&layout=compact&theme=radical)
-
----
-
-### 📫 Connect With Me
-
-- **Email**: [gopalgupta21113@gmail.com](mailto:gopakgupta21113@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/gopal-gupta-0ab404281/](https://www.linkedin.com/in/gopal-gupta-0ab404281/)
+* Agentic AI & Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
+* GraphRAG & Knowledge Graphs
+* Machine Learning & Predictive Analytics
+* Deep Learning & Computer Vision
+* Production AI Systems
 
 ---
 
-<div align="center">
-  <i>Always learning, building, and solving problems with AI.</i>
-</div>
+## 🛠️ Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, SQL
+
+**AI/ML:** PyTorch, TensorFlow, Scikit-Learn, XGBoost, CatBoost
+
+**GenAI:** LangChain, LangGraph, RAG, GraphRAG
+
+**Backend:** FastAPI, Flask
+
+**Databases:** Neo4j, PostgreSQL, SQLite
+
+**Tools:** Git, Docker, Linux
+
+---
+
+## 📌 Other Projects
+
+* Credit Card Fraud Detection
+* Heart Failure Prediction System
+* Medical Kit Usefulness Prediction
+* Agriculture Price Forecasting
+* MNIST Digit Classifier
+* Dictionary API
+* Currency Converter API
+
+---
+
+## 📫 Connect
+
+* **GitHub**: https://github.com/gopal092003
+* **Email**: [gopalgupta21113@gmail.com](mailto:gopakgupta21113@gmail.com)
+* **LinkedIn**: [https://www.linkedin.com/in/gopal-gupta-0ab404281/](https://www.linkedin.com/in/gopal-gupta-0ab404281/)
+
+> Building practical AI systems that bridge research and real-world applications.
