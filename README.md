@@ -43,9 +43,8 @@ Here are some of my notable public AI & ML projects:
 
 ### 📫 Let's Connect
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [gopalgupta21113@gmail.com](mailto:gopakgupta21113@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/gopal-gupta-0ab404281/](https://www.linkedin.com/in/gopal-gupta-0ab404281/)
 
 ---
 
