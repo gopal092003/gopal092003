@@ -1,10 +1,10 @@
 # Hi, I'm Gopal 👋
 
-**AI Engineer | Machine Learning Engineer | GenAI Developer**
+### AI Engineer | Machine Learning Engineer | GenAI Developer
 
-I build intelligent systems powered by **LLMs, Agentic AI, RAG, GraphRAG, Machine Learning, and Computer Vision**.
+I build intelligent systems powered by **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), GraphRAG, Machine Learning, and Computer Vision**.
 
-Currently focused on developing production-ready AI applications that combine autonomous agents, knowledge retrieval, and predictive modeling.
+My focus is on developing **production-ready AI applications** that combine autonomous agents, knowledge retrieval, predictive modeling, and scalable backend systems.
 
 ---
 
@@ -14,47 +14,67 @@ Currently focused on developing production-ready AI applications that combine au
 
 AI-native multi-agent sales intelligence platform built with Python and TypeScript.
 
-**Tech:** Multi-Agent Systems • LLMs • Automation
+**Tech:** Multi-Agent Systems • LLMs • Automation • AI Workflows
 
 🔗 https://github.com/gopal092003/AI-Sales-Agent
 
+---
+
 ### 💰 Finance AI Agent
 
-Multi-agent financial assistant for invoice processing and transaction analysis.
+Multi-agent financial assistant for invoice processing, transaction analysis, and financial intelligence.
 
-**Tech:** RAG • LLMs • Financial AI
+**Tech:** RAG • LLMs • Financial AI • Agentic Systems
 
 🔗 https://github.com/gopal092003/finance-ai-agent
 
+---
+
 ### 🕸️ Agentic Graph RAG
 
-Graph-based Retrieval-Augmented Generation platform powered by Neo4j.
+Graph-based Retrieval-Augmented Generation platform powered by Neo4j and Knowledge Graphs.
 
-**Tech:** GraphRAG • Neo4j • Knowledge Graphs
+**Tech:** GraphRAG • Neo4j • Knowledge Graphs • LLMs
 
 🔗 https://github.com/gopal092003/agentic-graph-rag
 
+---
+
+### 📦 Inventory Order Management System
+
+Production-ready full-stack inventory and order management platform with analytics dashboard, customer management, automated inventory tracking, Dockerized deployment, and CI/CD automation.
+
+**Tech:** React • FastAPI • PostgreSQL • Docker • CI/CD
+
+🔗 https://github.com/gopal092003/inventory-order-management
+
+---
+
 ### 🚗 Distracted Driver Detection
 
-Deep learning system for driver behavior monitoring.
+Deep learning system for real-time driver behavior monitoring and classification.
 
 **Tech:** CNNs • Transfer Learning • Computer Vision
 
 🔗 https://github.com/gopal092003/Distracted-Driver-Detection
 
+---
+
 ### 🔫 Handgun Detection
 
 Real-time object detection system using YOLO and OpenCV.
 
-**Tech:** YOLO • OpenCV • Object Detection
+**Tech:** YOLO • OpenCV • Computer Vision
 
 🔗 https://github.com/gopal092003/handgun-detection
 
+---
+
 ### 🎬 Movie Recommendation System
 
-Neural Collaborative Filtering recommender built with TensorFlow.
+Neural Collaborative Filtering recommender system built using TensorFlow.
 
-**Tech:** Recommender Systems • Deep Learning
+**Tech:** Recommender Systems • Deep Learning • TensorFlow
 
 🔗 https://github.com/gopal092003/Movie-Recommendation-NCF
 
@@ -63,31 +83,50 @@ Neural Collaborative Filtering recommender built with TensorFlow.
 ## 🧠 Areas of Interest
 
 * Agentic AI & Multi-Agent Systems
+* Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 * GraphRAG & Knowledge Graphs
 * Machine Learning & Predictive Analytics
 * Deep Learning & Computer Vision
+* AI Agents & Workflow Automation
 * Production AI Systems
+* MLOps & AI Deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL
+### Languages
 
-**AI/ML:** PyTorch, TensorFlow, Scikit-Learn, XGBoost, CatBoost
+Python • TypeScript • JavaScript • SQL
 
-**GenAI:** LangChain, LangGraph, RAG, GraphRAG
+### AI / Machine Learning
 
-**Backend:** FastAPI, Flask
+PyTorch • TensorFlow • Scikit-Learn • XGBoost • CatBoost
 
-**Databases:** Neo4j, PostgreSQL, SQLite
+### Generative AI
 
-**Tools:** Git, Docker, Linux
+LangChain • LangGraph • OpenAI • RAG • GraphRAG • Vector Databases
+
+### Backend
+
+FastAPI • Flask • REST APIs
+
+### Frontend
+
+React • Vite • HTML • CSS
+
+### Databases
+
+PostgreSQL • Neo4j • SQLite
+
+### DevOps & Tools
+
+Docker • Git • GitHub Actions • Linux • Render • Vercel
 
 ---
 
-## 📌 Other Projects
+## 📌 Additional Projects
 
 * Credit Card Fraud Detection
 * Heart Failure Prediction System
@@ -99,10 +138,33 @@ Neural Collaborative Filtering recommender built with TensorFlow.
 
 ---
 
+## 📈 Current Focus
+
+* Building Agentic AI applications
+* Advanced RAG and GraphRAG systems
+* Production-ready LLM applications
+* AI workflow automation
+* End-to-end AI product development
+* Scalable ML systems
+
+---
+
 ## 📫 Connect
 
-* **GitHub**: https://github.com/gopal092003
-* **Email**: [gopalgupta21113@gmail.com](mailto:gopakgupta21113@gmail.com)
-* **LinkedIn**: [https://www.linkedin.com/in/gopal-gupta-0ab404281/](https://www.linkedin.com/in/gopal-gupta-0ab404281/)
+### GitHub
 
-> Building practical AI systems that bridge research and real-world applications.
+https://github.com/gopal092003
+
+### Email
+
+[gopalgupta21113@gmail.com](mailto:gopalgupta21113@gmail.com)
+
+### LinkedIn
+
+https://www.linkedin.com/in/gopal-gupta-0ab404281/
+
+---
+
+### 💡 Philosophy
+
+Building practical AI systems that bridge cutting-edge research and real-world applications.
